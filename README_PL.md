@@ -102,6 +102,7 @@ Otwarta stacja fasadowa pozostaje niezależnie udokumentowana i możliwa do samo
 - [Instalacja i uruchomienie](docs/setup_PL.md)
 - [Integracja Home Assistant](docs/home-assistant_PL.md)
 - [Stacje fasadowe](docs/facade-stations_PL.md)
+- [Galeria produktu](docs/gallery_PL.md)
 
 Dokumentacja angielska zaczyna się w [README.md](README.md).
 

@@ -102,6 +102,7 @@ The open-source facade station remains independently documented and buildable.
 - [Setup and installation](docs/setup.md)
 - [Home Assistant integration](docs/home-assistant.md)
 - [Facade weather stations](docs/facade-stations.md)
+- [Product gallery](docs/gallery.md)
 
 Polish documentation starts at [README_PL.md](README_PL.md).
 
